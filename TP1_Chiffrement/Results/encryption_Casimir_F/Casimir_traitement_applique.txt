@@ -1,0 +1,2 @@
+Traitement appliqué :
+Encryption mode AES-CBC Clé utilisée : FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF

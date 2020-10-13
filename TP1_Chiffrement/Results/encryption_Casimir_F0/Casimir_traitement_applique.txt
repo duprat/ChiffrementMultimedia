@@ -1,0 +1,2 @@
+Traitement appliqué :
+Encryption mode AES- Clé utilisée : F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0
