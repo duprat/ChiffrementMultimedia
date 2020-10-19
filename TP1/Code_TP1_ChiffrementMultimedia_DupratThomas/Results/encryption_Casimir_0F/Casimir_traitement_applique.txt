@@ -1,0 +1,2 @@
+Traitement appliqué :
+Encryption mode AES-ECB Clé utilisée : 0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F
